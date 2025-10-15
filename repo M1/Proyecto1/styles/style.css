@@ -28,8 +28,8 @@ ol:hover{
 }
 
 
-header {background-color: rgb(255, 232, 127);}
-main {background-color: rgb(2, 40, 75);
+header {background-color: rgb(15, 14, 11);}
+main {background-color: rgb(105, 245, 152);
     
 }
 footer {background-color: rgb(248, 7, 7);}
@@ -43,7 +43,7 @@ font-size: 20px;
          font-size: 20px;
          text-decoration:overline;
          font-size: 30px;
-         text-decoration-color: blueviolet;
+         text-decoration-color: rgb(43, 226, 89);
         
 }
 
@@ -72,6 +72,14 @@ justify-content: center;
            background-color:rgb(255, 232, 127);
            
            
+}
+
+.cambios{ text-transform: uppercase;
+        margin-block-start: 2cap;
+        font-size: x-large;
+        text-decoration: rgb(55, 238, 9);
+
+
 }
 
 
