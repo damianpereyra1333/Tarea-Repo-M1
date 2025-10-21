@@ -82,4 +82,22 @@ justify-content: center;
 
 }
 
+.caja-de-comidas{
+     background-color: rgb(233, 233, 14);
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    border: 2px solid black;
+    padding: #ccc 15px;
+    list-style: none ;
+    flex-wrap: wrap;
+}
+.butt{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.butt:active{transform: scale(2);}
+
+.butt:hover{background-color: chartreuse;}
 
